@@ -1,6 +1,4 @@
-# claude-code
-
-### claude-code ⭐ 395
+### claude-code — 终端内 AI 代理编码工具
 
 **一句话总结**：Anthropic 官方推出的终端内代理编码工具，用自然语言理解代码库、执行任务、处理 Git 工作流。
 
@@ -10,3 +8,5 @@
 - 一行 curl 命令安装
 - 支持 IDE、终端、GitHub 多场景使用，附带官方插件体系
 - 不将用户数据用于模型训练，有明确的数据保留政策和隐私保护措施
+
+**github链接地址**：https://github.com/anthropics/claude-code

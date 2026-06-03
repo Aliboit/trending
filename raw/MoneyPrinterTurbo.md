@@ -1,4 +1,4 @@
-### 1. MoneyPrinterTurbo — 一键 AI 短视频生成器
+### MoneyPrinterTurbo — 一键 AI 短视频生成器
 
 **一句话总结**：只需一个关键词或主题，全自动生成文案、素材、字幕、背景音乐并合成高清短视频的端到端工具。
 
@@ -9,4 +9,4 @@
 - 接入 OpenAI、DeepSeek、Moonshot、通义千问等 12+ 大模型，中国用户可直接用 DeepSeek
 - 支持批量生成、字幕字体/颜色/描边自定义、多语音合成实时试听
 
----
+**github链接地址**：https://github.com/harry0703/MoneyPrinterTurbo

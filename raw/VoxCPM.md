@@ -1,4 +1,4 @@
-# OpenBMB/VoxCPM
+### VoxCPM — 无 Tokenizer 端到端 TTS 模型
 
 **一句话总结**：面壁智能推出的无 Tokenizer 端到端 TTS 模型 VoxCPM2，支持 30 种语言和创意语音设计。
 
@@ -8,3 +8,5 @@
 - 支持 30 种语言（含四川话、粤语、闽南话等方言），无需语言标签自动识别
 - 「语音设计」功能：仅用自然语言描述即可创造全新声音（性别、年龄、情感等），无需参考音频
 - 可控克隆 + 终极克隆两种模式，48kHz 音质，RTF 低至 0.13（vLLM 加速）
+
+**github链接地址**：https://github.com/OpenBMB/VoxCPM

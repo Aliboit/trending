@@ -1,4 +1,4 @@
-### 3. stop-slop — 给 AI 写作"去 AI 味"
+### stop-slop — 给 AI 写作"去 AI 味"
 
 **一句话总结**：一套去除 AI 写作文本中机械感、套路化表达的技能规则，让 AI 输出更像人写的。
 
@@ -9,4 +9,4 @@
 - 5 维度评分体系：直接性、节奏、信任感、真实性、密度，低于 35/50 需修改
 - 适用于 Claude Code / Projects / API 调用，MIT 开源可自由使用
 
----
+**github链接地址**：https://github.com/hardikpandya/stop-slop

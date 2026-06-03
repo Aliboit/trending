@@ -1,6 +1,4 @@
-# plugins
-
-### plugins ⭐ 134
+### plugins — Cursor 官方插件规范与插件集
 
 **一句话总结**：Cursor 官方插件规范 + 第一批官方插件，涵盖代码审查、CI、PR 画布、文档画布、多 agent 编排等。
 
@@ -10,3 +8,5 @@
 - 热核审查插件 `thermos`：深度的安全/正确性审计 + 严格代码质量评分 + 并行子 agent
 - 多 agent 编排插件 `orchestrate`：planner → workers → verifier 的扇出协作
 - PR Review Canvas / Docs Canvas 将 diff 和文档渲染为可交互的 Cursor 画布
+
+**github链接地址**：https://github.com/cursor/plugins

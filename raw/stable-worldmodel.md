@@ -1,6 +1,4 @@
-# stable-worldmodel
-
-### stable-worldmodel ⭐ 362
+### stable-worldmodel — 可复现世界模型研究平台
 
 **一句话总结**：可复现的世界模型研究平台，统一数据采集 → 训练 → 模型预测控制评估三阶段。
 
@@ -10,3 +8,5 @@
 - 三阶段统一 API：`World.collect()` → 训练 → `WorldModelPolicy` + CEM 求解器评估
 - 支持多种数据格式（Lance / HDF5 / NPZ / 视频 / LeRobot），自动检测
 - 附带 LeWM 和 DINO-WM 的参考实现，可直接复现基线
+
+**github链接地址**：https://github.com/galilai-group/stable-worldmodel
