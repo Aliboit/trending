@@ -1,12 +1,12 @@
-### Anthropic-Cybersecurity-Skills — 网络安全 AI 技能库
+### Anthropic-Cybersecurity-Skills — 面向 AI Agent 的结构化网络安全技能库
 
-**一句话总结**：754 个生产级网络安全技能，覆盖 26 个安全领域，每个技能映射 MITRE ATT&CK / NIST CSF 2.0 / ATLAS / D3FEND / AI RMF 五大框架。
+**一句话总结**：一个面向 AI Agent 的结构化网络安全技能库。
 
-**解决什么问题**：初级安全分析师不知道面对内存转储该用什么工具、威胁狩猎该查哪些 Sigma 规则——这个技能库让 AI Agent 秒变资深分析师。
+**解决什么问题**：为通用 AI Agent 补充安全分析、取证、云安全、检测响应等专业知识，使其具备更接近资深安全分析师的操作技能。
 
 **核心亮点**
-- 业界唯一同时映射五大框架的开源技能库：一个技能 = 五个合规复选框
-- 兼容 Claude Code / Copilot / Codex CLI / Cursor / Gemini CLI 等 26+ 平台
-- 附带在线 Playground，可实时运行安全技能演练，配有全球 AI 安全就绪度学术调查
+- 收录 754 个生产级网络安全技能，覆盖 26 个安全领域。
+- 映射 MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS、D3FEND、NIST AI RMF 等框架。
+- 遵循 agentskills.io 标准，可用于 Claude Code、Copilot、Codex CLI、Cursor、Gemini CLI 等多平台。
 
 **github链接地址**：https://github.com/mukul975/Anthropic-Cybersecurity-Skills
