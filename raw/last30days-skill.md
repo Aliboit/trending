@@ -1,12 +1,12 @@
-### last30days-skill — 跨平台 AI 搜索 Skill，按真实用户互动打分
+### last30days-skill — 跨平台AI调研技能
 
-**一句话总结**：跨 Reddit/X/YouTube/HN/Polymarket 的 AI Agent 搜索 Skill，按真实用户互动打分。
+**一句话总结**：AI agent 驱动的调研技能，跨 Reddit、X、YouTube、HN、Polymarket 等平台聚合并综合摘要。
 
-**解决什么问题**：解决谷歌只聚合编辑稿、单个 AI 又被各家平台数据墙挡住、用户无法搜到真实民意的问题。
+**解决什么问题**：传统搜索靠编辑排序，时效与可信度受限；该技能以点赞、真金白银（Polymarket）等信号做加权排序。
 
 **核心亮点**
-- 并行抓取 Reddit 票数、X 点赞、YouTube 字幕、TikTok 互动、Polymarket 真金白银赔率
-- 兼容 Claude Code、Codex、Cursor、Gemini CLI 等 50+ Agent Skills 宿主
-- 自带配置向导，30 秒解锁 X/YouTube/TikTok 等高门槛平台
+- 多源聚合：Reddit、X、YouTube、HN、Polymarket、Web 一站式调研
+- 以 upvotes、likes、真实市场资金作为评分依据，而非编辑筛选
+- 零配置即可用，Claude Code 通过 marketplace 一键安装
 
 **github链接地址**：https://github.com/mvanhorn/last30days-skill
