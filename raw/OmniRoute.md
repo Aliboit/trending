@@ -1,12 +1,12 @@
-### OmniRoute — 免费 AI 网关，聚合 200+ 模型服务商
+### OmniRoute — 免费 MIT AI 网关，一个端点聚合 290+ 供应商
 
-**一句话总结**：OmniRoute 用一个统一端点连接海量 AI 服务商，为编码工具提供免费额度聚合、压缩与故障回退。
+**一句话总结**：一个免费、MIT 协议的 AI 网关，用单一端点聚合 290+ 供应商（90+ 免费）、500+ 模型，配额感知自动降级。
 
-**解决什么问题**：开发者在 Claude Code、Codex、Cursor、Cline、Copilot 等工具中使用模型时，经常遭遇额度耗尽、供应商切换复杂和成本不可控，OmniRoute 将多个免费/低成本服务整合成统一网关。
+**解决什么问题**：手动堆叠各家免费额度痛苦——几十个 SDK、几十套速率限制，根本不知道实际还剩多少。OmniRoute 把 43 个供应商池、460+ 模型的文档化免费额度聚合成一个诚实数字，并在仪表盘实时展示，每两周重审。
 
 **核心亮点**
-- 聚合 236 个提供方与 50+ 免费选项，统一接入 Claude、GPT、Gemini 等模型生态。
-- RTK + Caveman 压缩可节省约 15%–95% token，延长免费额度使用时间。
-- 支持自动 fallback、CLI/MCP/A2A、多模态 API 与桌面/PWA 使用方式。
+- 单端点兼容 Claude Code、Codex、Cursor、OpenCode、Cline、Copilot 等主流工具，配额感知自动回退
+- RTK + Caveman 压缩节省 15%-95% token；支持 MCP/A2A，提供桌面端与 PWA
+- 每月约 15.3 亿免费 token，数字经 CI 门禁校验，杜绝虚标；500+ 贡献者共建
 
 **github链接地址**：https://github.com/diegosouzapw/OmniRoute
