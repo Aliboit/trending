@@ -1,12 +1,12 @@
-### claude-cookbooks — Anthropic 官方 Claude 用法示例合集
+### claude-cookbooks — Anthropic 官方 Claude API 实战示例与代码片段合集
 
-**一句话总结**：Anthropic 官方出品的 Claude 用法示例与配方合集，提供可复制的代码片段帮助开发者快速上手。
+**一句话总结**：Anthropic 官方出品的 Claude API 示例代码合集，帮助开发者快速上手并集成 Claude 到自有项目。
 
-**解决什么问题**：开发者接入 Claude API 时缺乏系统性参考示例，官方 Cookbooks 填补这一空白，提供从基础到进阶的可复制代码片段，降低集成门槛。
+**解决什么问题**：新接触 Claude API 的开发者需要权威、可复制的起步示例；本仓库提供官方维护的代码片段，概念可迁移至任意支持 Claude API 的语言。
 
 **核心亮点**
-- Anthropic 官方维护，权威性与质量有保障
-- 代码以 Python 为主，概念可迁移至任意支持 Claude API 的语言
-- 配套 Claude API 基础课程，适合新手到进阶开发者
+- 官方维护：Anthropic 出品，示例权威准确
+- 即拷即用：代码片段可直接粘贴到自有项目
+- 配套基础课：与 Claude API Fundamentals 课程衔接，学习路径清晰
 
 **github链接地址**：https://github.com/anthropics/claude-cookbooks
