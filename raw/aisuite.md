@@ -1,12 +1,12 @@
-### aisuite — 多模型统一接口 + 桌面 Agent
+### aisuite — 统一接口对接多个生成式 AI 提供商
 
-**一句话总结**：吴恩达团队的多家大模型统一接口库，并附带一个完整的桌面 Agent 参考实现 OpenCoworker。
+**一句话总结**：轻量级 Python 库，提供统一接口对接 OpenAI、Anthropic、Google 等多个生成式 AI 提供商。
 
-**解决什么问题**：OpenAI、Anthropic、Google、Ollama 等 SDK 各不相同，构建 Agent 时切换/对比成本高；同时缺乏「能真正动手干活」的开源桌面 Agent 样板。
+**解决什么问题**：消除不同 LLM 提供商之间 API 差异带来的开发负担，让开发者用一套代码切换不同模型。
 
 **核心亮点**
-- 统一的 Chat Completions API，外加带 tools/toolkits 的 Agents API
-- OpenCoworker 桌面 Agent 可读文件、收发消息、生成 PDF/文档/表格
-- 支持自带 OpenAI/Anthropic/Google API key，或用 Ollama 全本地运行
+- 分为统一 Chat 层和 Provider 层，架构清晰，使用简单
+- 衍生出 OpenWorker 桌面 AI 协作应用，支持本地运行（Ollama）保护数据隐私
+- 由 Andrew Ng（吴恩达）发起，社区关注度高
 
 **github链接地址**：https://github.com/andrewyng/aisuite
