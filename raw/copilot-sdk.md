@@ -1,12 +1,12 @@
-# copilot-sdk
+### copilot-sdk — 多平台Copilot Agent集成SDK
 
-**一句话总结**：GitHub 官方多语言 SDK，把驱动 Copilot CLI 的 agent 运行时嵌入你自己的应用。
+**一句话总结**：将 Copilot Agent 能力嵌入任意应用的多平台 SDK。
 
-**解决什么问题**：构建自己的 agent 编排成本高，官方 SDK 直接复用生产级 Copilot 引擎。
+**解决什么问题**：让开发者无需自建编排即可在应用中集成 Copilot 的 agentic workflow。
 
-**核心亮点**：
-- 同时支持 Python、TypeScript、Go、.NET、Java、Rust 六种语言
-- 自动处理规划、工具调用、文件编辑等编排逻辑，开发者只需定义行为
-- 每种语言附带 Cookbook 与 API 文档，快速上手
+**核心亮点**
+- 支持 Python / TypeScript / Go / .NET / Java / Rust 六种语言
+- 暴露与 Copilot CLI 同源的生产级 agent runtime（规划、工具调用、文件编辑）
+- 每个 SDK 均配 Cookbook 与 API 文档，上手门槛低
 
-**GitHub 链接**：https://github.com/github/copilot-sdk
+**github链接地址**：https://github.com/github/copilot-sdk
