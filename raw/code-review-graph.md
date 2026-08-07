@@ -1,12 +1,12 @@
-# code-review-graph
+### code-review-graph — 本地优先代码智能图谱
 
-**一句话总结**：本地优先的代码智能图，基于 Tree-sitter 构建持久化代码地图，通过 MCP 给 AI 工具精准上下文。
+**一句话总结**：本地优先的代码智能图谱工具，用 Tree-sitter 构建持久化代码结构图，通过 MCP 为 AI 编码工具提供精准上下文。
 
-**解决什么问题**：AI 编码工具在 review 任务中反复重读大段代码，浪费 token 且容易遗漏关键改动。
+**解决什么问题**：AI 编码工具在代码审查时反复读取大段代码，浪费大量 Token 且效率低下。
 
-**核心亮点**：
-- Tree-sitter 解析 + 增量变更追踪，仅传递"相关切片"
-- 一条命令自动检测并配置所有支持的 AI 平台（Claude Code、Cursor 等）的 MCP
-- 附带基准测试量化 context 缩减效果，支持多语言文档
+**核心亮点**
+- Tree-sitter 增量解析，构建持久化代码结构图，变更时增量更新
+- 通过 MCP 精准投递上下文，基准测试显示审查场景 Token 消耗显著降低
+- 一条命令自动检测并配置所有支持的 AI 编码平台，多语言文档（中/英/日/韩/印）
 
-**GitHub 链接**：https://github.com/tirth8205/code-review-graph
+**github链接地址**：https://github.com/tirth8205/code-review-graph
