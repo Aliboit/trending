@@ -1,12 +1,12 @@
-### agency-agents — AI Agent 角色与工作流模板库
+### Agency Agents — AI 代理人格合集
 
-**一句话总结**：Agency Agents 将带有明确职责、流程和交付物的专家 AI Agent 打包成可安装到 Claude Code、Cursor、Codex 等工作流助手。
+**一句话总结**：一个「AI 代理事务所」合集，提供从前端到社区运营的各类角色化 AI agent，每个都有独特个性和专业能力。
 
-**解决什么问题**：用户在不同编码代理工具中经常需要反复设计提示词和专家角色，该项目将前端开发、社区运营、现实校验等常见职能沉淀为可复用 Agent，降低角色设计成本。
+**解决什么问题**：开发者和团队在用 AI 编码代理时往往缺乏明确的角色分工和流程规范，这个项目把各种专业角色（前端、后端、QA、社区运营等）打包成可直接安装的 agent 人格。
 
 **核心亮点**
-- 提供覆盖产品、工程、内容与运营等场景的专业化 AI Agent 人格与流程。
-- 新推出跨平台桌面 App，可浏览角色库并一键安装到多种编码代理工具。
-- 每个 Agent 具备清晰定位、工作步骤与可验证交付结果。
+- 已有原生桌面应用（macOS/Linux/Windows），一键安装到 Claude Code、Cursor、Codex、Gemini 等主流工具
+- 每个 agent 都有个性、流程和可验证的交付物，不是泛用型助手
+- 源自 Reddit 讨论和数月迭代，社区驱动
 
 **github链接地址**：https://github.com/msitarzewski/agency-agents
